@@ -1,5 +1,5 @@
 import java.util.Vector;
-import ruibalau.GravPoint;
+import GravPoint;
 import robocode.util.Utils;
 
 /**
