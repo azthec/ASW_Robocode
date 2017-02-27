@@ -1,5 +1,3 @@
-package ruibalau;
-
 import java.util.Vector;
 import ruibalau.GravPoint;
 import robocode.util.Utils;
