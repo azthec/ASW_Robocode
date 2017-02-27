@@ -1,5 +1,3 @@
-package ruibalau;
-
 public class GravPoint {
 	public double x;
 	public double y;
