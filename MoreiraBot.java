@@ -1,4 +1,3 @@
-package ruibalau;
 
 //http://robowiki.net/wiki/Module/Movement/AntiGravity
 //http://robowiki.net/wiki/HawkOnFire
@@ -8,8 +7,8 @@ import robocode.*;
 import robocode.AdvancedRobot;
 import robocode.util.Utils;
 
-import ruibalau.GravPoint;
-import ruibalau.GravEngine;
+import GravPoint;
+import GravEngine;
 
 import java.awt.geom.Point2D;
 import java.util.Hashtable;
